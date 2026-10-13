@@ -1,0 +1,14 @@
+# Archivos generados al compilar
+bin/
+obj/
+*.o
+*.exe
+
+# Archivos de Code::Blocks propios de cada equipo
+*.depend
+*.layout
+
+# Datos generados al usar el programa
+jugadores.txt
+puntajes.txt
+temporal.txt
